@@ -4,7 +4,7 @@
 
 [Mühldorf](https://www.google.de/maps/place/M%C3%BChldorf/data=!4m2!3m1!1s0x4775e9a68424db67:0x41d25a40937a190?sa=X&ved=0CI0BEPIBMAtqFQoTCPrntee8jcgCFce3FAodF6cPEA) is a town in [Upper Bavaria](https://en.wikipedia.org/wiki/Upper_Bavaria). I, [Martin Murrer](http://seventy2eleven.de), moved to this town in 2009 and to be honest, I love it. This font is my hommage to this town.
 
-I designed this font in 2014 just for fun to learn [Type 3.2](cr8software.net) from [cr8software](cr8software.net). Originally it was called Daxenberger, which is the street I live in. After reading about Muehldorfs History during Germany's dark ages, I decided not to name it Daxenberger.
+I designed this font in 2014 just for fun to learn [Type 3.2](cr8software.net) from [cr8software](cr8software.net). Originally it was called Daxenberger, but then I decided to call it Muehldorf.
 
 It is not finished, please regard this font as a work in progress. I'll update it every once and a while.
 
