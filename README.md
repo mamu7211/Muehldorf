@@ -6,6 +6,8 @@
 
 I designed this font in 2014 just for fun to learn [Type 3.2](cr8software.net) from [cr8software](cr8software.net). Originally it was called Daxenberger, which is the street I live in. After reading about Muehldorfs History during Germany's dark ages, I decided not to name it Daxenberger.
 
+It is not finished, please regard this font as a work in progress. I'll update it every once and a while.
+
 ## License and Usage
 
 I'd be happy if you drop me a note at martin@seventy2eleven.de if you use this font, but you don't have to.
